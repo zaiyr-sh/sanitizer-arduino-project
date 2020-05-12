@@ -6,7 +6,7 @@ Final Exam [Group project with 3D print and Arduino]
 </p>
 
 # Description:
-Due to the global pandemic that changed our usual lives, we decided to come up with something that will help protect ourselves and those around us. Therefore, our idea was to create a sanitizer.
+Due to the global pandemic that changed our usual lives, we decided to come up with something that will help protect ourselves and those around us. Therefore, our idea was to create a sanitizer. How it works? We have to bring our hands to the sanitizer. The Ultrasonic Distance Sensor which has a sensor for detecting movement will begin to spin the torque thanks to Micro Servo. Due to this it will pull the fishing line and the sanitizer will drip.
 
 # Team:
 1) Timur Kasenov - 3D Design developer
@@ -16,14 +16,14 @@ Due to the global pandemic that changed our usual lives, we decided to come up w
 1) Tinkercad: https://www.tinkercad.com/things/2QCVp2IfVxP-sanitizer-arduino-uno
 2) Video tutorial on electronic part: https://www.youtube.com/watch?v=mFFEMNsJUNs&feature=youtu.be
 3) Video tutorial on 3D part: https://www.youtube.com/watch?v=hi-c0oI2GCY
-4) Thingiverse for 3D part: 
+4) Thingiverse for 3D part: https://www.thingiverse.com/thing:4358528
 
 # Project requirements:
 * Github 
-1) readme.md - description, images, parts list, authors - 
+1) readme.md - description, images, parts list, authors - :white_check_mark:
 2) folders structure: CAD files (with STL files), Images, Firmware - :white_check_mark:
 3) Adding license file to your project 5 bonus pts - :white_check_mark:
-4) thingiverse, youtube link each 10 bonus pts in readme.md -
+4) thingiverse, youtube link each 10 bonus pts in readme.md - :white_check_mark:
 * CAD files 
 1) All source files (slvs/scad/fcstd/fzz)  are uploaded - :white_check_mark:
 2) Proper name (no cyrillic or trash names) - :white_check_mark:
@@ -43,6 +43,9 @@ Due to the global pandemic that changed our usual lives, we decided to come up w
 
 # Electronic device details:
 
+<p align="center">
+  <img src="https://i.imgur.com/xw2JHOx.png" alt="Preview" width="800px"/>
+</p>
 <p align="center"><strong>Arduino Uno R3</strong></p>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Uno_-_R3.jpg" alt="Preview" width="800px"/>
