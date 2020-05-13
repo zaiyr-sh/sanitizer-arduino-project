@@ -6,7 +6,7 @@ Final Exam [Group project with 3D print and Arduino]
 </p>
 
 # Description:
-Due to the global pandemic that changed our usual lives, we decided to come up with something that will help protect ourselves and those around us. Therefore, our idea was to create a sanitizer. How it works? We have to bring our hands to the sanitizer. The Ultrasonic Distance Sensor which has a sensor for detecting movement will begin to spin the torque thanks to Micro Servo. Due to this it will pull the fishing line and the sanitizer will drip.
+Due to the global pandemic that changed our usual lives, we decided to come up with something that will help protect ourselves and those around us. Therefore, our idea was to create a sanitizer. How it works? We have to bring our hands to the sanitizer. The Ultrasonic Distance Sensor which has a sensor for detecting movement will begin to spin the torque thanks to Micro Servo. Due to this it will pull the thread and the disinfectant will drip. We also developed a 3D cad. This will serve as a stand for the sanitizer. A thread will pass through the hole to pull the lid and the disinfectant will come out.
 
 # Team:
 1) Timur Kasenov - 3D Design developer
