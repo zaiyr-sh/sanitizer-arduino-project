@@ -87,3 +87,8 @@ Due to the global pandemic that changed our usual lives, we decided to come up w
 # Purpose
 
 This is an International Ala-Too University Final project marking the end of the studying Engineering Computer Graphics. It's purpose to design electronic device with controller (ex. Arduino) and enclosure (3D print) for it.
+
+# License
+The MIT License (MIT)
+
+Copyright (c) 2020 Zaiyr Sharsheyev
