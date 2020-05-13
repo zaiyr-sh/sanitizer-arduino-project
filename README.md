@@ -75,14 +75,25 @@ Due to the global pandemic that changed our usual lives, we decided to come up w
 </p>
 
 # OpenSCAD (3D Print):
+<p align="center"><strong>First Version</strong></p>
 <p align="center">
   <img src="https://github.com/zaiyr00/sanitizer-arduino-project/blob/master/images/sanitizer_stand.png?raw=true" alt="Preview" width="800px"/>
 </p>
+<p align="center"><strong>Second Version</strong></p>
+<p align="center">
+  <img src="https://github.com/zaiyr00/sanitizer-arduino-project/blob/master/images/sanitizer_stand_2nd_version.png?raw=true" alt="Preview" width="800px"/>
+</p>
 
 # Screenshot of model in slicer
+<p align="center"><strong>First Version</strong></p>
 <p align="center">
   <img src="https://github.com/zaiyr00/sanitizer-arduino-project/blob/master/images/sanitizer_stand_slicer_screenshot.png?raw=true" alt="Preview" width="800px"/>
 </p>
+<p align="center"><strong>Second Version</strong></p>
+<p align="center">
+  <img src="https://github.com/zaiyr00/sanitizer-arduino-project/blob/master/images/sanitizer_stand_2nd_version_slicer_screenshot.png?raw=true" alt="Preview" width="800px"/>
+</p>
+
 
 # Purpose
 
