@@ -6,17 +6,22 @@ Final Exam [Group project with 3D print and Arduino]
 </p>
 
 # Description:
-Due to the global pandemic that changed our usual lives, we decided to come up with something that will help protect ourselves and those around us. Therefore, our idea was to create a sanitizer. How it works? We have to bring our hands to the sanitizer. The Ultrasonic Distance Sensor which has a sensor for detecting movement will begin to spin the torque thanks to Micro Servo. Due to this it will pull the thread and the disinfectant will drip. We also developed a 3D cad. This will serve as a stand for the sanitizer. A thread will pass through the hole to pull the lid and the disinfectant will come out.
+Due to the global pandemic that changed our usual lives, we decided to come up with something that will help protect ourselves and those around us. Therefore, our idea was to create a sanitizer. How it works? We have prepared two options on two 3D models.
+1) We have to bring our hands to the sanitizer. The Ultrasonic Distance Sensor which has a sensor for detecting movement will begin to spin the torque thanks to Micro Servo. Due to this it will pull the thread and the disinfectant will drip. We also developed a 3D cad. This will serve as a stand for the sanitizer. A thread will pass through the hole to pull the lid and the disinfectant will come out.
+2) We have to bring our hands to the sanitizer. The Ultrasonic Distance Sensor which has a sensor for detecting movement will begin to spin the torque thanks to Micro Servo. The torque begins to push the lever and it will press on the sanitizer and disinfectant will come out.
 
 # Team:
 1) Timur Kasenov - 3D Design developer
 2) Zaiyr Sharsheev - Electronic developer
+3) Baatyr Birnazarov
+4) Daniar Raiymkulov 
 
 # Links:
 1) Tinkercad: https://www.tinkercad.com/things/2QCVp2IfVxP-sanitizer-arduino-uno
 2) Video tutorial on electronic part: https://www.youtube.com/watch?v=mFFEMNsJUNs&feature=youtu.be
 3) Video tutorial on 3D part: https://www.youtube.com/watch?v=hi-c0oI2GCY
-4) Thingiverse for 3D part: https://www.thingiverse.com/thing:4358528
+4) Video tutorial on 3D part 2nd version: https://www.youtube.com/watch?v=azKOVTsLpGw&feature=youtu.be
+5) Thingiverse for 3D part: https://www.thingiverse.com/thing:4358528
 
 # Project requirements:
 * Github 
